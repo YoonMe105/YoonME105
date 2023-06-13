@@ -1,4 +1,4 @@
-###                                         Hi,My Name is Yoon Me Me Phyo 👋
+                                            Hi,My Name is Yoon Me Me Phyo 👋
                                                 A FRONT-END Developer.
 
 <!--
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yoommeemeephyo@gmail.com
 
 -->
-- 🌱 I’m currently learning React Js,PHP,Tailwind Css
+- 🌱 I’m currently learning React Js,PHP,Tailwind Css,Laravel
 - 📫 How to reach me: yoommeemeephyo@gmail.com
