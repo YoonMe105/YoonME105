@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Profile
-- 🎓 Diploma in ICT(Software Engineering)
+- 🎓 Diploma in Information & Communication Technology with a specialism in Software Engineering
 - 🌍 Based in Malaysia 🇲🇾  
 
 ---
